@@ -1,1 +1,3 @@
-# Data-Structure-Algorithms-using-C-
+# DSA-using-C++
+
+This repository is a series of Data Structures & Algorithms.
